@@ -6,6 +6,8 @@
 
 | 單元 | 內容 | 線上使用 | 教學指南 |
 |---|---|---|---|
+| 弧度量 | 16章、62步驟、16道檢核；弳、角度換算、弧長面積、三角比 | [開始學習](https://fangchiwei-1104.github.io/math-geometry-animations/radians-lessons.html) | [指南與答案](radians-guide.md) |
+| 週期性數學模型 | 18章、56步驟、18道檢核；圖形與算式連動、生活建模、方程式及不等式 | [開始學習](https://fangchiwei-1104.github.io/math-geometry-animations/periodic-models-lessons.html) | [指南與答案](periodic-guide.md) |
 | 空間座標系 | 14章、57步驟、14道檢核；座標、投影、距離公式、經緯度與球面距離 | [開始學習](https://fangchiwei-1104.github.io/math-geometry-animations/spatial-coordinates-lessons.html) | [指南與答案](spatial-guide.md) |
 | 圓錐曲線 | 12章、45步驟、12道檢核；圓錐面、四種截痕、幾何計算與燈光應用 | [開始學習](https://fangchiwei-1104.github.io/math-geometry-animations/conic-lessons.html) | [指南與答案](conic-guide.md) |
 
@@ -30,3 +32,9 @@
 依提供的空間坐標系課本 p.24–37、圓錐曲線課本 p.158–171 重新編寫解說與繪製圖形。原課本 PDF 未包含於此專案。
 
 GitHub Pages 使用 `main` 分支根目錄發布。
+
+## 新增單元
+
+- `radians-lessons.html`、`radians-guide.md`：弧度量與教學指南。
+- `periodic-models-lessons.html`、`periodic-guide.md`：週期性數學模型與教學指南。
+- 依提供弧度量課本p.2–19、週期性數學模型課本p.22–49重新編寫，未包含原課本PDF。
